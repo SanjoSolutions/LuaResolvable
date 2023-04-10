@@ -46,6 +46,8 @@ function Resolvable.await(value)
   end
 end
 
+await = Resolvable.await
+
 function Resolvable.all(resolvables)
   local resolvable, resolvableInternal = Resolvable.Resolvable:new()
   local result = {}
@@ -61,8 +63,6 @@ function Resolvable.all(resolvables)
   end)
   return resolvable
 end
-
-await = Resolvable.await
 
 _.ResolvableInternal = {}
 
