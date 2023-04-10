@@ -1,5 +1,6 @@
 ## Title: Resolvable
 ## Interface: 11403
 ## Dependencies: Coroutine, Hook, Function, Array
+## Version: 1.0.0
 
 Resolvable.lua
