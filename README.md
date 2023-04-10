@@ -6,8 +6,8 @@ This library can save add-on developers some work.
 ## Things included
 
 * **Resolvable.Resolvable**: a class for a resolvable.
-  * **Resolvable.Resolvable**:new: a constructor for creating a resolvable.
-  * **Resolvable.Resolvable:afterResolve** / **Resolvable.Resolvable**.after: a method for registering a callback which is called after the resolvable is resolved.
+  * **Resolvable.Resolvable:new**: a constructor for creating a resolvable.
+  * **Resolvable.Resolvable:afterResolve** / **Resolvable.Resolvable.after**: a method for registering a callback which is called after the resolvable is resolved.
   * **await** / **Resolvable.await**: a function for awaiting on a promise. Can only be used in a coroutine.
   * **Resolvable.all**: a function for creating a new resolvable which resolves when all resolvables, that have been passed, have been resolved.
 
