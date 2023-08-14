@@ -1,0 +1,9 @@
+{
+  "name": "Object",
+  "dependencies": {
+    "Coroutine": "SanjoSolutions/LuaCoroutine#v1.1.0",
+    "Hook": "SanjoSolutions/LuaHook#v1.1.0",
+    "Function": "SanjoSolutions/LuaFunction#v1.1.0",
+    "Array": "SanjoSolutions/LuaArray#v1.1.0"
+  }
+}
