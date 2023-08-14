@@ -1,9 +1,9 @@
 {
-  "name": "Resolvable",
+  "name": "@sanjo-addons/resolvable",
   "dependencies": {
-    "Coroutine": "SanjoSolutions/LuaCoroutine#v1.0.0",
-    "Hook": "SanjoSolutions/LuaHook#v1.0.0",
-    "Function": "SanjoSolutions/LuaFunction#v1.0.0",
-    "Array": "SanjoSolutions/LuaArray#v1.0.0"
+    "@sanjo-addons/coroutine": "SanjoSolutions/LuaCoroutine#v1.0.0",
+    "@sanjo-addons/hook": "SanjoSolutions/LuaHook#v1.0.0",
+    "@sanjo-addons/function": "SanjoSolutions/LuaFunction#v1.0.0",
+    "@sanjo-addons/array": "SanjoSolutions/LuaArray#v1.0.0"
   }
 }

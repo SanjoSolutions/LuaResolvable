@@ -1,6 +1,6 @@
 ## Title: Resolvable
 ## Interface: 30400
 ## Dependencies: Coroutine, Hook, Function, Array
-## Version: 1.0.0
+## Version: 1.1.0
 
 Resolvable.lua
