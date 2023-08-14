@@ -1,5 +1,5 @@
 ## Title: Resolvable
-## Interface: 100007
+## Interface: 100105
 ## Dependencies: Coroutine, Hook, Function, Array
 ## Version: 1.0.0
 
