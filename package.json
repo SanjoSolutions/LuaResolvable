@@ -1,5 +1,5 @@
 {
-  "name": "Object",
+  "name": "Resolvable",
   "dependencies": {
     "Coroutine": "SanjoSolutions/LuaCoroutine#v1.1.0",
     "Hook": "SanjoSolutions/LuaHook#v1.1.0",
